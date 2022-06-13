@@ -1,0 +1,18 @@
+
+body{
+    background-color: rgb(223, 188, 31);
+}
+
+.font-title{
+    font-family: sans-serif;
+    text-shadow: 2px 4px 2px black;
+}
+.img-size{
+    width: 200px;
+}
+.shadow-black{
+    text-shadow: 2px 0px 2px black;
+}
+.ml{
+    margin-left: 0.5rem;
+}
